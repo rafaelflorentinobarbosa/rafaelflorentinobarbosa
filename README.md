@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/rafael-florentino-617910150">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-  <a href="https://www.instagram.com/rafaelflorentinobarbosa/" target="_blank">
+  <a href="https://facebook.com/Rafael F Barbosa" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/>
   <a/>&nbsp;
 <a href="https://www.instagram.com/rafaelflorentinobarbosa/">
