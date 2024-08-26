@@ -15,6 +15,13 @@
 
  Segue o link do meu **Portifólio:** [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io)
 
+ 
+[![rafaelflorentinobarbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelflorentinobarbosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![card](https://github-readme-stats.vercel.app/api?username=rafaelflorentinobarbosa&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ## Você também me encontra em:
 <a href="https://www.linkedin.com/in/rafael-florentino-617910150">
