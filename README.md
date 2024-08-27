@@ -10,6 +10,13 @@
   &nbsp;&nbsp;<img width='70' height='70'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;&nbsp; 
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='70' height=60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"" />&nbsp;&nbsp;
+  &nbsp;<img width='70' height=60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
+  &nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> &nbsp;
+  &nbsp; <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;
+          
+  
+  
 </div> 
 <br>
 
